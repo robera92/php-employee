@@ -1,0 +1,16 @@
+{
+    "name": "rober/03",
+    "description": "OOP basics",
+    "autoload": {
+        "psr-4": {
+            "OOP\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "robera92",
+            "email": "robertas.arla@stud.kitm.lt"
+        }
+    ],
+    "require": {}
+}
